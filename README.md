@@ -2,14 +2,11 @@
 
 Spring Boot CRUD Web application with Pagination and Sorting features using Spring Boot, ThymeLeaf, Spring Data JPA, Hibernate, MySQL database
 
-### Tutorial - Spring Boot CRUD Web Application with Thymeleaf, Spring MVC, Spring Data JPA, Hibernate, MySQL
-https://www.javaguides.net/2020/05/spring-boot-crud-web-application-with-thymeleaf.html
+#1. Change MySQL DB Properties in application.properties
 
-### YouTube Video - Spring Boot CRUD Web Application with Thymeleaf, Spring MVC, Spring Data JPA, Hibernate, MySQL
-https://youtu.be/_5sAmaRJd2c
+#2. Build:  mvn clean install
 
-### Tutorial - Pagination and Sorting with Spring Boot, ThymeLeaf, Spring Data JPA, Hibernate, MySQL
-https://www.javaguides.net/2020/06/pagination-and-sorting-with-spring-boot-thymeleaf-spring-data-jpa-hibernate-mysql.html
+#3. Start Server:  mvn spring-boot:run
 
-### YouTube Video  - Pagination and Sorting with Spring Boot, ThymeLeaf, Spring Data JPA, Hibernate, MySQL
-=> https://youtu.be/Aie8n12EFQc
+#4: Homepage Url: http://localhost:8080
+
